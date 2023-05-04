@@ -1,0 +1,8 @@
+Methodennamen ohne @RunMe:
+
+Methodennamen mit @RunMe:
+test1
+test2
+
+Nicht invokierbare Methoden mit @RunMe:
+test4: IllegalArgumentException

@@ -1,0 +1,13 @@
+Methodennamen ohne @RunMe:
+noRmR1
+noRmR2
+
+Methodennamen mit @RunMe:
+method0
+method1
+method2
+method3
+toString
+
+Nicht invokierbare Methoden mit @RunMe:
+method4: IllegalAccessException

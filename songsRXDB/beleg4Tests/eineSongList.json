@@ -1,0 +1,10 @@
+{
+  "name" : "Entspannung am Abend",
+  "owner" : "1",
+  "personal" : true,
+  "playlist" : [
+    1,
+    5,
+    7
+  ]
+}

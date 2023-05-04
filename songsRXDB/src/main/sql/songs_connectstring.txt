@@ -1,0 +1,6 @@
+Host: db.f4.htw-berlin.de
+DB: _s0556127__kbe_songsdb
+Port: 5432
+User: _s0556127__kbe_songsdb_generic
+
+JDBC-String: jdbc:postgresql://db.f4.htw-berlin.de:5432/_s0556127__kbe_songsdb

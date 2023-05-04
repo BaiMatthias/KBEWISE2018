@@ -1,0 +1,40 @@
+- init
+  - Dateo exitiert nicht / falscher Pfad
+  - Kann nicht gelesen werden (keine Rechte)
+  - alles ok
+  - Hashmap Fehler?
+
+- GET
+  - Header
+    - falscher AcceptHeader
+    - Accept Header * (leer), application/json --> alles ok
+  - Get Song
+    - Song ID nicht vorhanden
+    - Alles OK
+    - falsche URI
+  - Get all Songs
+    - falsche URI
+    - alles ok
+
+- POST
+  - alles ok
+  - kein JSON angegeben
+  - zu wenig Parameter (kein Artist, Release, Title, Album)
+  - ID bereits vorhanden/ songliste aktuell gesperrt da upload im Gang (Threadsafe)
+
+- destroy
+  - Fehler beim Schreiben die Datei (keine Rechte)
+  - alles ok
+  - Hashmap Fehler?
+
+- Klasse Song
+  - add song
+    - fehler beim umwandeln in objekt
+    - alles ok
+    - fehlende Parameter
+  - get Song
+    - id nicht vorhanden
+    - alles ok
+  - get all songs
+    - keine Songs vorhanden
+    - alles ok

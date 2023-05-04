@@ -1,0 +1,16 @@
+[
+	{
+		"id": 1,
+		"title": "Testlied",
+		"artist": "Testartist",
+		"album": "Testalbum",
+		"released": 2018
+	},
+	{
+		"id": 2,
+		"title": "Lied",
+		"artist": "Interpret",
+		"album": "Album",
+		"released": 2017
+	}
+]

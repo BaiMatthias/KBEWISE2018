@@ -1,0 +1,19 @@
+- Server Start
+	- Songs -> Extern -> Pfad aus XML-Config Datei
+	- einlesen der Songs aus der Datei Hashmap
+- User GET
+	- anzeigen der Songs als JSON
+	- anzeigen eines Songs als JSON
+	- für alle:
+		- mit Accept Header ("*", oder application/json)
+		- und ohne Accept Header
+- User POST
+	- akzeptiert nur JSON als Payload
+	- fügt einen neuen Song in die Liste der Songs
+	- neue ID für den Song wird als Response geschickt
+- Mehrere User
+	- während ein POST verarbeitet wird: Sperrung der DB für POST
+	- bei upload gleicher ID -> Fehlermeldung
+- Server beenden
+	- Songs aus der MAp wieder in die JSON 
+	  am vorgegebenen (beim Start eingegebenen) Ort

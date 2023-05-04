@@ -1,0 +1,10 @@
+insert into song (title, artist, album, released) values ('Can’t Stop the Feeling', 'Justin Timberlake', 'Trolls', 2016);
+insert into song (title, artist, album, released) values ('Mom', 'Meghan Trainor, Kelli Trainor', 'Thank You', 2016);
+insert into song (title, artist, album, released) values ('Team', 'Iggy Azalea', '', 2016);
+insert into song (title, artist, album, released) values ('Ghostbusters (I''m not a fraid)', 'Fall Out Boy, Missy Elliott', 'Ghostbusters', 2016);
+insert into song (title, artist, album, released) values ('Bad Things', 'Camila Cabello, Machine Gun Kelly', 'Bloom', 2017);
+insert into song (title, artist, album, released) values ('I Took a Pill in Ibiza', 'Mike Posner', 'At Night, Alone.', 2016);
+insert into song (title, artist, album, released) values ('i hate u, i love u', 'Gnash', 'Top Hits 2017', 2017);
+insert into song (title, artist, album, released) values ('No', 'Meghan Trainor', 'Thank You', 2016);
+insert into song (title, artist, album, released) values ('Private Show', 'Britney Spears', 'Glory', 2016);
+insert into song (title, artist, album, released) values ('7 Years', 'Lukas Graham', 'Lukas Graham (Blue Album)', 2015);
